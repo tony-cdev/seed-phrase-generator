@@ -1,7 +1,6 @@
 # Seed Phrase / Private Key Generator (Wallet-Gen) – Crypto Wallet Generator, Checker, Recover & Balance Finder for Lost Bitcoin (BTC), Ethereum (ETH), and other EVM Chains
 
 
-
 [![platform](https://img.shields.io/badge/platform-Windows%20%7C%20MacOS%20%7C%20Linux-blue)](../../releases/tag/wallet-gen)
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
 
